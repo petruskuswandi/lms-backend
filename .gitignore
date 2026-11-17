@@ -1,0 +1,16 @@
+# Build & Maven
+target/
+.mvn/timing.properties
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE & OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Kunci Privat & Rahasia (JANGAN DI-UPLOAD KE GITHUB)
+**/privateKey.pem
+*.key
+.env
